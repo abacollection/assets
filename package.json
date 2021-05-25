@@ -1,11 +1,11 @@
 {
-  "name": "@ladjs/assets",
-  "description": "Assets for Lad",
+  "name": "@abacollection/assets",
+  "description": "*Maintained fork for ABA Collection.* Assets for Lad",
   "version": "1.1.1",
   "author": "Nick Baugh <niftylettuce@gmail.com> (http://niftylettuce.com/)",
   "bugs": {
-    "url": "https://github.com/ladjs/assets/issues",
-    "email": "niftylettuce@gmail.com"
+    "url": "https://github.com/abacollection/assets/issues",
+    "email": "taylorschley@me.com"
   },
   "commitlint": {
     "extends": [
@@ -13,7 +13,8 @@
     ]
   },
   "contributors": [
-    "Nick Baugh <niftylettuce@gmail.com> (http://niftylettuce.com/)"
+    "Nick Baugh <niftylettuce@gmail.com> (http://niftylettuce.com/)",
+    "Taylor Schley <taylorschley@me.com> ()"
   ],
   "dependencies": {
     "clipboard": "^2.0.6",
@@ -48,7 +49,7 @@
     "lib",
     "scss"
   ],
-  "homepage": "https://github.com/ladjs/assets",
+  "homepage": "https://github.com/abacollection/assets",
   "husky": {
     "hooks": {
       "pre-commit": "npm test",
@@ -109,7 +110,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ladjs/assets"
+    "url": "https://github.com/abacollection/assets"
   },
   "scripts": {
     "build": "babel src --out-dir lib --source-maps",
@@ -128,5 +129,8 @@
       "browser",
       "jquery"
     ]
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

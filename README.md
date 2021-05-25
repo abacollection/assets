@@ -1,11 +1,11 @@
-# [**@ladjs/assets**](https://github.com/ladjs/assets)
+# [**@abacollection/assets**](https://github.com/abacollection/assets)
 
 [![code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![made with lass](https://img.shields.io/badge/made_with-lass-95CC28.svg)](https://lass.js.org)
-[![license](https://img.shields.io/github/license/ladjs/assets.svg)](LICENSE)
+[![license](https://img.shields.io/github/license/abacollection/assets.svg)](LICENSE)
 
-> Assets for Lad
+> Maintained fork for ABA Collection. Assets for Lad
 
 
 ## Table of Contents
@@ -21,13 +21,13 @@
 [npm][]:
 
 ```sh
-npm install @ladjs/assets
+npm install @abacollection/assets
 ```
 
 [yarn][]:
 
 ```sh
-yarn add @ladjs/assets
+yarn add @abacollection/assets
 ```
 
 
@@ -38,9 +38,10 @@ See [Lad's usage][lad-usage] for more information.
 
 ## Contributors
 
-| Name           | Website                    |
-| -------------- | -------------------------- |
-| **Nick Baugh** | <http://niftylettuce.com/> |
+| Name              | Website                    |
+| ----------------- | -------------------------- |
+| **Nick Baugh**    | <http://niftylettuce.com/> |
+| **Taylor Schley** |                            |
 
 
 ## License
@@ -48,7 +49,7 @@ See [Lad's usage][lad-usage] for more information.
 [MIT](LICENSE) © [Nick Baugh](http://niftylettuce.com/)
 
 
-## 
+##
 
 [npm]: https://www.npmjs.com/
 
