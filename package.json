@@ -1,7 +1,7 @@
 {
   "name": "@abacollection/assets",
   "description": "*Maintained fork for ABA Collection.* Assets for Lad",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "author": "Nick Baugh <niftylettuce@gmail.com> (http://niftylettuce.com/)",
   "bugs": {
     "url": "https://github.com/abacollection/assets/issues",
